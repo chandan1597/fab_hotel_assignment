@@ -1,0 +1,70 @@
+{
+    "users": {
+        "chandan" : "asdf@1234"
+    },
+    "posts": [
+        {
+            "id": "post1", 
+            "heading": "heading 1", 
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc",
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false
+        },
+        {
+            "id": "post2", 
+            "heading": "heading 2", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post3", 
+            "heading": "heading 3", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post4", 
+            "heading": "heading 4", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": true,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post5", 
+            "heading": "heading 5", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": true,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post6", 
+            "heading": "heading 6", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post7", 
+            "heading": "heading 7", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+
+        },
+        {
+            "id": "post8", 
+            "heading": "heading 8", 
+            "text": "LOREM IPSUM GENERATOR Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "ifLiked": false,
+            "imageSource": "https://firebasestorage.googleapis.com/v0/b/todolist-8e413.appspot.com/o/logo.png?alt=media&token=57382278-d4a5-4b1d-81f4-43c69fef4fdc"
+ 
+        }
+    ]
+}
